@@ -1,0 +1,73 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = formationBlazor
+build_property.RootNamespace = formationBlazor
+build_property.ProjectDir = C:\Users\yhasbi\Desktop\Formation_C#\WorkSpace\formationBlazor\formationBlazor\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\yhasbi\Desktop\Formation_C#\WorkSpace\formationBlazor\formationBlazor
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/yhasbi/Desktop/Formation_C\#/WorkSpace/formationBlazor/formationBlazor/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yhasbi/Desktop/Formation_C\#/WorkSpace/formationBlazor/formationBlazor/Pages/Converter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udmVydGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yhasbi/Desktop/Formation_C\#/WorkSpace/formationBlazor/formationBlazor/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yhasbi/Desktop/Formation_C\#/WorkSpace/formationBlazor/formationBlazor/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yhasbi/Desktop/Formation_C\#/WorkSpace/formationBlazor/formationBlazor/Pages/GeolocationExample.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2VvbG9jYXRpb25FeGFtcGxlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yhasbi/Desktop/Formation_C\#/WorkSpace/formationBlazor/formationBlazor/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yhasbi/Desktop/Formation_C\#/WorkSpace/formationBlazor/formationBlazor/Pages/Rendering.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVuZGVyaW5nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yhasbi/Desktop/Formation_C\#/WorkSpace/formationBlazor/formationBlazor/Pages/WeeklyForecast.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2Vla2x5Rm9yZWNhc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yhasbi/Desktop/Formation_C\#/WorkSpace/formationBlazor/formationBlazor/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yhasbi/Desktop/Formation_C\#/WorkSpace/formationBlazor/formationBlazor/Shared/ThemeChooser.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFRoZW1lQ2hvb3Nlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yhasbi/Desktop/Formation_C\#/WorkSpace/formationBlazor/formationBlazor/Shared/WeatherDay.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFdlYXRoZXJEYXkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yhasbi/Desktop/Formation_C\#/WorkSpace/formationBlazor/formationBlazor/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yhasbi/Desktop/Formation_C\#/WorkSpace/formationBlazor/formationBlazor/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-qy29gy4lpf
+
+[C:/Users/yhasbi/Desktop/Formation_C\#/WorkSpace/formationBlazor/formationBlazor/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-mg5ykrde2b
